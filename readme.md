@@ -1,6 +1,6 @@
 # Recipee App
 
-Simple Reac application using modularity, that allows to break down source code into parts, or modules,
+Simple React application using modularity, that allows to break down source code into parts, or modules,
 that are easier to work with.
 
 
