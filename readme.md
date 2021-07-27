@@ -1,29 +1,24 @@
-Recipe App
-==========
-Modularity will allow you to break down your source code into parts, or modules,
-that are easier to work with, especially in a team environment.  
+# Recipee App
 
-[demo](http://rawgit.com/MoonHighway/learning-react/master/chapter-05/recipe-app/dist/)
+Simple Reac application using modularity, that allows to break down source code into parts, or modules,
+that are easier to work with.
+
+
 
 #### Installation
 Run this npm command to install dependencies:
 ```
-$ npm install
+ npm install
 ```
 
 #### Build
 Run this npm command to build the JavaScript bundle:
 ```
-$ npm run build
+ npm run build
 ```
 
 #### Run
 Run this npm command to build the JavaScript Bundle and open the browser to the app using the file api:
 ```
-$ npm start
+ npm start
 ```
-
-Updates
-----
-
-We've updated the project's dependencies to include the [opener package](https://www.npmjs.com/package/opener). This will allow users to open/start files on both PCs and Macs via build scripts that use the '''opener''' command.
